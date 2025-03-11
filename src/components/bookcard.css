@@ -1,0 +1,33 @@
+.book-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #e6e6fa; /* Light purple background */
+  }
+  
+  .book-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .book-details {
+    margin-top: 10px;
+  }
+  
+  .book-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .book-genre,
+  .book-author {
+    font-size: 1em;
+    color: #555;
+  }

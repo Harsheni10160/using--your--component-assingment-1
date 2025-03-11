@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
